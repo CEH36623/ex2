@@ -1,2 +1,3 @@
 hello ex2
 Lecture : Open Source Software
+Tis week : Git comands
